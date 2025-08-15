@@ -2,7 +2,7 @@ add the following to the mcp json
 
 {
   "mcpServers": {
-     	"add_tool": {
+    "add_tool": {
       "command": "uvx",
       "args": [
         "--from",
@@ -10,4 +10,6 @@ add the following to the mcp json
         "mcp-server"
       ]
     }
+  }
 }
+
